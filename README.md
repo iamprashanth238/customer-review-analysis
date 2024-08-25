@@ -49,12 +49,12 @@ To set up and run this project locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/761b2e42-889b-48f9-9d3f-1d463922a481)
 
 ### Sample Dataset
-You can use the Restaurant_Reviews.tsv file included in this repository as a sample dataset to see how the application works.
+You can use the Restaurant_Reviews.tsv file in this repository as a sample dataset to see how the application works.
 
 ### Deployment
 The app can be deployed on any cloud platform like AWS, Heroku, or Streamlit Cloud. To deploy, follow the instructions provided by the respective platforms.
 
 ### Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
+If you want to contribute to this project, you can fix the repository and submit a pull request. Contributions are always welcome!
 
-### Happy Coding...:)
+### Happy Coding...! :)
